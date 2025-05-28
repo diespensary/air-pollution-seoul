@@ -12,3 +12,4 @@
 
 ### Пример работы
 
+![image](https://github.com/user-attachments/assets/741963f9-d1dd-4fd1-acd2-49fa7c20a24c)
